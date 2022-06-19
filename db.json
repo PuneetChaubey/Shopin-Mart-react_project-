@@ -1,0 +1,367 @@
+{ "kidsData":[
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3963792_Orange_Extreme_Ruby?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Tek Gear® Dry Tek Shorts in Regular & Husky",
+      "sale_price": "$10.99",
+      "id":"1"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3956939_Flash_Yellow_Extreme?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Tek Gear® Dry Tek Tee in Regular & Husky",
+      "sale_price": "$20.00",
+      "id":"2"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/4546062_ALT?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Under Armour Hybrid Print Tech Tee",
+      "sale_price": "$14.00",
+      "strikedoffprice": "",
+      "id":"3"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3958503_Blue_Green_Black?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys Hanes Ultimate® 5-pack Super Soft Lightweight Boxer Briefs",
+      "sale_price": "$20.00",
+      "strikedoffprice": "",
+      "id":"4"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/893443_White?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys Nike 6-Pack Performance Crew Socks",
+      "sale_price": "$16.00",
+      "strikedoffprice": "",
+      "id":"5"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/4927014?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 6-20 Hanes Ultimate 5-Pack X-Temp Boxer Briefs",
+      "sale_price": "$18.00",
+      "strikedoffprice": "",
+      "id":"6"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/5489423_Koala_Gray?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 4-12 Jumping Beans® Twill Shorts in Regular, ...",
+      "sale_price": "$12.99",
+      "strikedoffprice": "",
+      "id":"7"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/4515104_ALT?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Under Armour Prototype 2.0 Shorts",
+      "sale_price": "$14.99",
+      "strikedoffprice": "",
+      "id":"8"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/5257609_Must_Do_Blue?wid=240&hei=240&op_sharpen=1",
+      "name": "Toddler Boy Jumping Beans® Essential Knit Jersey ...",
+      "sale_price": "$5.99",
+      "strikedoffprice": "",
+      "id":"9"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/5231613_Green_Tie_Dye?wid=240&hei=240&op_sharpen=1",
+      "name": "Toddler Boy Jumping Beans® Graphic Tee",
+      "sale_price": "$6.99",
+      "strikedoffprice": "",
+      "id":"10"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3276145?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 4-20 Hanes Classics 5-pack +1 Bonus ComfortSoft Tanks",
+      "sale_price": "$17.00",
+      "strikedoffprice": "",
+      "id":"11"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/5227692_Must_Do_Blue?wid=245&hei=240&op_sharpen=1",
+      "name": "Boys 4-12 Jumping Beans® Cargo Poplin Shorts in Regular, Slim & Husky",
+      "sale_price": "$12.99",
+      "strikedoffprice": "",
+      "id":"12"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/4658902_Dark_Wolf_Gray?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Nike Dri-FIT Trophy Short",
+      "sale_price": "$19.98",
+      "strikedoffprice": "",
+      "id":"13"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/5260456_Coal_Mine?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 4-8 Jumping Beans® Essential Knit Jersey Shorts",
+      "sale_price": "$6.67",
+      "strikedoffprice": "",
+      "id":"14"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/4560825_ALT?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 adidas Classic Three-Stripe Shorts",
+      "sale_price": "$14.99",
+      "strikedoffprice": "",
+      "id":"15"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3276146?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 4-20 Hanes Ultimate Cool Comfort 5-Pack Tees",
+      "sale_price": "$17.00",
+      "strikedoffprice": "",
+      "id":"16"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3963792_Orange_Extreme_Ruby?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Tek Gear® Dry Tek Shorts in Regular & Husky",
+      "sale_price": "$10.99",
+      "id":"17"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3956939_Flash_Yellow_Extreme?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Tek Gear® Dry Tek Tee in Regular & Husky",
+      "sale_price": "$20.00",
+      "id":"18"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/4546062_ALT?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys 8-20 Under Armour Hybrid Print Tech Tee",
+      "sale_price": "$14.00",
+      "strikedoffprice": "",
+      "id":"19"
+    },
+    {
+      "img_url":
+        "https://media.kohlsimg.com/is/image/kohls/3958503_Blue_Green_Black?wid=240&hei=240&op_sharpen=1",
+      "name": "Boys Hanes Ultimate® 5-pack Super Soft Lightweight Boxer Briefs",
+      "sale_price": "$20.00",
+      "strikedoffprice": "",
+      "id":"20"
+    }   
+],
+"shoes":[
+
+],
+"mens":[
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/3910467_Bright_Blue?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$10.99",
+      "name": "Men's Sonoma Goods For Life® Supersoft Solid Crewneck Tee",
+      "id": "1"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/3583992_Signal_Blue?wid=600&hei=600&op_sharpen=1",
+      "sale_price": "$44.99",
+      "name": "Men's Nike Sportswear Club Fleece Pullover Hoodie",
+      "id": "2"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/4341799_Black_Black?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$19.99",
+      "name": "Men's Tek Gear® Open Bottom Tricot Pant",
+      "id": "3"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/4952247_ALT?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$17.99",
+      "name": "Men's Tek Gear® Ultra Soft Fleece Joggers",
+      "id": "4"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/4972082_ALT?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$17.99",
+      "name": "Men's Tek Gear® Ultra Soft Fleece Hoodie",
+      "id": "5"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/5178_Light_Blue?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$48.65",
+      "name": "Men's Levi's® 505™ Regular Jeans",
+      "id": "6"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/5190352_Black?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$21.00",
+      "name": "Men's Eddie Bauer Resolution Classic-Fit Performance Crewneck Tee",
+      "id": "7"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/5192044_Andorra_Red?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$45.50",
+      "name": "Men's Eddie Bauer Rainier Regular-Fit Performance ...",
+      "id": "8"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/3979888_New_White?wid=96&hei=96&op_sharpen=1",
+      "sale_price": "$14.39",
+      "name": "Men's Croft & Barrow® Easy-Care Pique Polo in Regular and Slim Fit",
+      "id": "9"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/4632125_Black?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$15.00",
+      "name": "Men's Under Armour Tech Graphic Shorts",
+      "id": "10"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/3450298_ALT?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$19.99",
+      "name": "Men's Under Armour Tech Graphic Shorts",
+      "id": "11"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/2310989_Afrobeat?w",
+      "sale_price": "$48.65",
+      "name": "Men's Levi's® 505™ Regular-Fit Stretch Jeans",
+      "id": "12"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/4471841?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$48.65",
+      "name": "Big & Tall Levi's® 559™ Relaxed Straight-Fit Jeans",
+      "id": "13"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/1989834_Native_Cali?wid=96&hei=96&op_sharpen=1",
+      "sale_price": "$48.65",
+      "name": "Men's Levi's® 541™ Athletic Taper Stretch Jeans",
+      "id": "14"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/424153_Rigid_Indigo?wid=96&hei=96&op_sharpen=1",
+      "sale_price": "$48.65",
+      "name": "Big & Tall Levi's® 501™ Jeans",
+      "id": "15"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/3597690_Studio_White?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$34.99",
+      "name": "Men's Apt. 9® Premier Flex Slim-Fit Spread-Collar Dress",
+      "id": "16"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/5172_Stonewash?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$48.65",
+      "name": "Men's Levi's® 550™ Relaxed-Fit Jeans",
+      "id": "17"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/5516162_Gray?wid=600&hei=600&op_sharpen=1",
+      "sale_price": "$23.99",
+      "name": "Men's Croft & Barrow Side-Elastic Cargo Shorts",
+      "id": "18"
+    },
+    {
+      "img_url": "https://media.kohlsimg.com/is/image/kohls/2143062_Bastion?wid=240&hei=240&op_sharpen=1",
+      "sale_price": "$69.50",
+      "name": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
+      "id": "19"
+    }
+  ],
+  "womenData" : [
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5237613_ALT?wid=240&hei=240&op_sharpen=1",
+    "sale_price": "$29.99",
+    "name": "Women's Sonoma Goods For Life® Comfort Waist Utility","id":"1"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5237613_Sydney_Olive?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$23.65",
+    "name": "Women's Sonoma Goods For Life® Comfort Waist","id":"2"},
+     
+    {"img_url": "https://media.kohlsimg.com/is/image/kohls/3836990_Pink_Stripe?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$5.78",
+    "name": "Women's Croft & Barrow® Essential Long-Sleeve","id":"3"},
+
+    {"img_url": "https://media.kohlsimg.com/is/image/kohls/5243469_Light_Gray?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$22.56",
+    "name": "Women's Sonoma Goods For Life® Comfort Waist","id":"4"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4942292_Warm_Ginger?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$23.99",
+    "name": "Women's Sonoma Goods For Life® Favorite Long Sleeve Cardigan","id":"5"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/3069612_Slate_Oahu_Morning?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$48.66",
+    "name": "Women's Levi's® Classic Straight-Leg Jeans","id":"6"},
+     
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/3567056_Black_Multi_Floral?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$26.99",
+    "name": "Women's Croft & Barrow® Smocked Swing Midi","id":"7"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5272124_Blue_Patch_Floral?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$27.99",
+    "name": "Women's Croft & Barrow® Print Sleeveless Midi","id":"8"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4911743_Mineral_Black?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$9.00",
+    "name": "Women's Nine West Essential Short-Sleeve","id":"9"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/3918078_Black?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$22.78",
+    "name": "Women's Croft & Barrow® Effortless Stretch Capri","id":"10"},
+     
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/3947868_ALT6?wid=600&hei=600&op_sharpen=1",
+    "sale_price": "$17.22",
+    "name": "Women's Croft & Barrow® Easy Pull-On Knit Skort","id":"11"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4845651_ALT?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$21.89",
+    "name": "Women's Croft & Barrow® Classic Comfort","id":"12"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5220032_Pink_Geo?wid=600&hei=600&op_sharpen=1",
+    "sale_price": "$26.99",
+    "name": "Women's Croft & Barrow® Classic Comfort","id":"13"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5260974_Periwinkle_Blue?wid=600&hei=600&op_sharpen=1",
+    "sale_price": "$22.89",
+    "name": "Women's Croft & Barrow® Full-Zip Hoodie","id":"14"},
+     
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5024873_ALT?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$30.99",
+    "name": "Women's Tek Gear® Ultra Soft Fleece Hoodie","id":"15"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4928223_Black_White_Birdseye?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$31.35",
+    "name": "Women's Nine West Midrise Tummy Control","id":"16"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4974987_Faint_Whisper?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$17.99",
+    "name": "Women's Nine West V-Neck Tank","id":"17"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4799269_Navy_Blue_Floral?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$19.56",
+    "name": "Women's Croft & Barrow® Pintuck Splitneck","id":"18"},
+     
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/c3039950?wid=1200&hei=1200&op_sharpen=1",
+    "sale_price": "$35.00",
+    "name": "Women's Neutral Zone Outfit","id":"19"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/5168808_Fresh_Teal?wid=600&hei=600&op_sharpen=1",
+    "sale_price": "$41.99",
+    "name": "Women's Champion® Campus French Terry","id":"20"},
+
+    {"img_url":"https://media.kohlsimg.com/is/image/kohls/4531071_Seven_Seas_Blue?wid=600&hei=600&op_sharpen=1",
+    "sale_price": "$26.99",
+    "name": "Women's Champion® Campus French Terry","id":"21"}
+
+]
+
+
+
+}

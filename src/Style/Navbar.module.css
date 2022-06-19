@@ -1,0 +1,15 @@
+.navbar_div{
+    width: 100%;
+    margin: none;
+    height: 70px;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #202020;
+    color: orangered;
+}
+.navbar_link{
+    text-decoration: none;
+    color: white;
+}
